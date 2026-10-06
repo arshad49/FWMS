@@ -449,54 +449,6 @@ This project helped me understand the connection between **LLMs, agents, APIs, d
 
 ---
 
-# 🔮 Future Improvements
-
-Possible improvements include:
-
-* [ ] Authentication and authorization
-* [ ] Role-based access control
-* [ ] Better AI memory
-* [ ] WhatsApp integration
-* [ ] Email integration
-* [ ] Automated payment reminders
-* [ ] AI-generated business reports
-* [ ] Workflow automation
-* [ ] Agent evaluation
-* [ ] Better error handling
-* [ ] Docker support
-* [ ] Automated testing
-
----
-
-# 📸 Screenshots
-
-Add screenshots here to show the project visually.
-
-### Dashboard
-
-```text
-docs/screenshots/dashboard.png
-```
-
-### Project Management
-
-```text
-docs/screenshots/projects.png
-```
-
-### AI Telegram Assistant
-
-```text
-docs/screenshots/telegram-ai.png
-```
-
-### Invoice Management
-
-```text
-docs/screenshots/invoices.png
-```
-
----
 
 # 👨‍💻 Author
 
